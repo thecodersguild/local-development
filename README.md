@@ -1,1 +1,1 @@
-# local-wordpress-development
+# Setting up a Local Environment for Wordpress Development
