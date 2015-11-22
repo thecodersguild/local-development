@@ -1,1 +1,1 @@
-# local-development-for-wordpress
+# local-wordpress-development
